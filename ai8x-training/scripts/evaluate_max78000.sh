@@ -2,8 +2,8 @@
 # Evaluation script for Animals
 
 MODEL="ai85cdnet"
-DATASET="paper_vs_glass"
-QUANTIZED_MODEL="../ai8x-training/logs/2025.11.07-171723/qat_best-quantized.pth.tar"
+DATASET="burger_vs_pizza"
+QUANTIZED_MODEL="../ai8x-training/logs/2025.11.10-010300/best-quantized.pth.tar"
 
 # Run evaluation
 python train.py \

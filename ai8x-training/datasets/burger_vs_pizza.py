@@ -7,7 +7,7 @@
 #
 ###################################################################################################
 """
-burger and pizza Datasets
+Cats and Dogs Datasets
 """
 
 # Essential Imports
@@ -57,7 +57,7 @@ def augment_blur(orig_img):
 
 def burgerpizza_get_datasets(data, load_train=True, load_test=True, aug=2):
     """
-    Load burger & pizza dataset
+    Load Cats & Dogs dataset
     """
     (data_dir, args) = data
     path = data_dir
@@ -67,15 +67,15 @@ def burgerpizza_get_datasets(data, load_train=True, load_test=True, aug=2):
         print("******************************************")
         print("Please follow the instructions below:")
         print("Download the dataset to the \'data\' folder by visiting this link: "
-              "\'https://www.kaggle.com/datasets/salader/pizza-vs-burger\'")
+              "\'https://www.kaggle.com/datasets/salader/dogs-vs-cats\'")
         print("If you do not have a Kaggle account, sign up first.")
         print("Unzip the downloaded file and find \'test\' and \'train\' folders "
-              "and copy them into \'data/burger_vs_pizza\'. ")
+              "and copy them into \'data/cats_vs_dogs\'. ")
         print("Make sure that images are in the following directory structure:")
-        print("  \'data/burger_vs_pizza/train/burger\'")
-        print("  \'data/burger_vs_pizza/train/pizza\'")
-        print("  \'data/burger_vs_pizza/test/burger\'")
-        print("  \'data/burger_vs_pizza/test/pizza\'")
+        print("  \'data/cats_vs_dogs/train/cats\'")
+        print("  \'data/cats_vs_dogs/train/dogs\'")
+        print("  \'data/cats_vs_dogs/test/cats\'")
+        print("  \'data/cats_vs_dogs/test/dogs\'")
         print("Re-run the script. The script will create an \'augmented\' folder ")
         print("with all the original and augmented images. Remove this folder if you want "
               "to change the augmentation and to recreate the dataset.")
@@ -192,7 +192,6 @@ def burgerpizza_get_datasets(data, load_train=True, load_test=True, aug=2):
         test_dataset = None
 
     return train_dataset, test_dataset
-
 
 datasets = [
     {

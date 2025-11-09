@@ -1,4 +1,4 @@
-LOG_DIRECTORY="../ai8x-training/logs/2025.11.07-171723"
+LOG_DIRECTORY="../ai8x-training/logs/2025.11.10-010300"
 
 # Define possible model files
 QAT_MODEL="$LOG_DIRECTORY/qat_best.pth.tar"
