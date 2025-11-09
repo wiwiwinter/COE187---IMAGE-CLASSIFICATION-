@@ -1,0 +1,23 @@
+numpy==1.22.4  # Changed from any old version
+pillow>=7
+torch==1.8.1
+torchvision==0.9.1
+scipy>=1.3.0
+# torchnet==0.0.4  # COMMENT THIS OUT - it requires numpy 1.17.3
+pydot==1.4.1
+tabulate==0.8.3
+pandas>=0.22.0
+jupyter>=1.0.0
+matplotlib>=3.3.0  # Changed from ~=3.0
+# qgrid==1.1.1  # COMMENT THIS OUT - broken
+# graphviz==0.10.1  # COMMENT THIS OUT - too old
+# ipywidgets==7.4.2  # COMMENT THIS OUT - has puccinialin issue
+# bqplot==0.11.5  # COMMENT THIS OUT - too old
+pyyaml
+pytest>=4.6.1
+xlsxwriter>=1.2.2
+# pretrainedmodels==0.7.4  # COMMENT THIS OUT - old
+timm>=0.6.0  # ADD THIS - modern replacement
+scikit-learn>=0.23.2,<0.24
+# gym==0.12.5  # COMMENT THIS OUT - too old
+tqdm>=4.33.0

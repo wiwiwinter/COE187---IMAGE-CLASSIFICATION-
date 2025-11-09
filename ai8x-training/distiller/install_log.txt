@@ -1,0 +1,360 @@
+Using pip 25.0.1 from c:\maximsdk\project 1\ai8x-training\venv\lib\site-packages\pip (python 3.8)
+Collecting ipywidgets==7.4.2
+  Obtaining dependency information for ipywidgets==7.4.2 from https://files.pythonhosted.org/packages/30/9a/a008c7b1183fac9e52066d80a379b3c64eab535bd9d86cdc29a0b766fd82/ipywidgets-7.4.2-py2.py3-none-any.whl.metadata
+  Downloading ipywidgets-7.4.2-py2.py3-none-any.whl.metadata (1.8 kB)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/ea/21/f43fd2ddda490fde643f39bfaa68562ad9c7357dfb5d21c73426a9908443/ipykernel-6.30.0a0-py3-none-any.whl (from https://pypi.org/simple/ipykernel/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/39/47/9f718ee189f863381976acd594636b22aa872df11939efe8c61b4b22cec9/ipykernel-6.30.0a0.tar.gz (from https://pypi.org/simple/ipykernel/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/1f/3d/00813c3d9b46e3dcd88bd4530e0a3c63c0509e5d8c9eff34723ea243ab04/ipykernel-6.30.0-py3-none-any.whl (from https://pypi.org/simple/ipykernel/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/38/27/9e6e30ed92f2ac53d29f70b09da8b2dc456e256148e289678fa0e825f46a/ipykernel-6.30.0.tar.gz (from https://pypi.org/simple/ipykernel/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/fc/c7/b445faca8deb954fe536abebff4ece5b097b923de482b26e78448c89d1dd/ipykernel-6.30.1-py3-none-any.whl (from https://pypi.org/simple/ipykernel/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/bb/76/11082e338e0daadc89c8ff866185de11daf67d181901038f9e139d109761/ipykernel-6.30.1.tar.gz (from https://pypi.org/simple/ipykernel/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/a6/40/3e78506d35c863979aea77a125b42125cccaa0ed4199ad20b2bfcba613d7/ipykernel-7.0.0a1-py3-none-any.whl (from https://pypi.org/simple/ipykernel/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/a0/e8/147a81083d3200403d9465330e0daa226a3c6d8130f6bc8c275baab406c2/ipykernel-7.0.0a1.tar.gz (from https://pypi.org/simple/ipykernel/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/e3/e3/c471afccaedd89576f5591f1622d70aa9f610194b9c4e91f4ff4b6d9d909/ipykernel-7.0.0a2-py3-none-any.whl (from https://pypi.org/simple/ipykernel/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/c1/1a/baaccb506ef660e9e3d420088e3a68f7873b1bcc152c0d069541641fd230/ipykernel-7.0.0a2.tar.gz (from https://pypi.org/simple/ipykernel/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.10'): https://files.pythonhosted.org/packages/84/55/7565c83fe2b79f9b4e000935b6797212567f592f1e993671202c6c9105af/ipykernel-7.0.0a3-py3-none-any.whl (from https://pypi.org/simple/ipykernel/) (requires-python:>=3.10)
+  Link requires a different Python (3.8.10 not in: '>=3.10'): https://files.pythonhosted.org/packages/84/b6/41c050d59b8b540e2dd51bdf884f687d86240082429ee2d7ed6ee6571ea1/ipykernel-7.0.0a3.tar.gz (from https://pypi.org/simple/ipykernel/) (requires-python:>=3.10)
+Collecting ipykernel>=4.5.1 (from ipywidgets==7.4.2)
+  Obtaining dependency information for ipykernel>=4.5.1 from https://files.pythonhosted.org/packages/94/5c/368ae6c01c7628438358e6d337c19b05425727fbb221d2a3c4303c372f42/ipykernel-6.29.5-py3-none-any.whl.metadata
+  Downloading ipykernel-6.29.5-py3-none-any.whl.metadata (6.3 kB)
+Requirement already satisfied: traitlets>=4.3.1 in c:\maximsdk\project 1\ai8x-training\venv\lib\site-packages (from ipywidgets==7.4.2) (5.14.3)
+Collecting nbformat>=4.2.0 (from ipywidgets==7.4.2)
+  Obtaining dependency information for nbformat>=4.2.0 from https://files.pythonhosted.org/packages/a9/82/0340caa499416c78e5d8f5f05947ae4bc3cba53c9f038ab6e9ed964e22f1/nbformat-5.10.4-py3-none-any.whl.metadata
+  Downloading nbformat-5.10.4-py3-none-any.whl.metadata (3.6 kB)
+Collecting widgetsnbextension~=3.4.0 (from ipywidgets==7.4.2)
+  Obtaining dependency information for widgetsnbextension~=3.4.0 from https://files.pythonhosted.org/packages/8a/81/35789a3952afb48238289171728072d26d6e76649ddc8b3588657a2d78c1/widgetsnbextension-3.4.2-py2.py3-none-any.whl.metadata
+  Downloading widgetsnbextension-3.4.2-py2.py3-none-any.whl.metadata (1.5 kB)
+Requirement already satisfied: ipython>=4.0.0 in c:\maximsdk\project 1\ai8x-training\venv\lib\site-packages (from ipywidgets==7.4.2) (8.12.3)
+Requirement already satisfied: comm>=0.1.1 in c:\maximsdk\project 1\ai8x-training\venv\lib\site-packages (from ipykernel>=4.5.1->ipywidgets==7.4.2) (0.2.3)
+Collecting debugpy>=1.6.5 (from ipykernel>=4.5.1->ipywidgets==7.4.2)
+  Obtaining dependency information for debugpy>=1.6.5 from https://files.pythonhosted.org/packages/c5/a7/6bd5440287cffa866ad4edabc6137b9805470dce0dbd331741adacc28312/debugpy-1.8.17-cp38-cp38-win_amd64.whl.metadata
+  Downloading debugpy-1.8.17-cp38-cp38-win_amd64.whl.metadata (1.2 kB)
+Collecting jupyter-client>=6.1.12 (from ipykernel>=4.5.1->ipywidgets==7.4.2)
+  Obtaining dependency information for jupyter-client>=6.1.12 from https://files.pythonhosted.org/packages/11/85/b0394e0b6fcccd2c1eeefc230978a6f8cb0c5df1e4cd3e7625735a0d7d1e/jupyter_client-8.6.3-py3-none-any.whl.metadata
+  Downloading jupyter_client-8.6.3-py3-none-any.whl.metadata (8.3 kB)
+Collecting jupyter-core!=5.0.*,>=4.12 (from ipykernel>=4.5.1->ipywidgets==7.4.2)
+  Obtaining dependency information for jupyter-core!=5.0.*,>=4.12 from https://files.pythonhosted.org/packages/2f/57/6bffd4b20b88da3800c5d691e0337761576ee688eb01299eae865689d2df/jupyter_core-5.8.1-py3-none-any.whl.metadata
+  Downloading jupyter_core-5.8.1-py3-none-any.whl.metadata (1.6 kB)
+Requirement already satisfied: matplotlib-inline>=0.1 in c:\maximsdk\project 1\ai8x-training\venv\lib\site-packages (from ipykernel>=4.5.1->ipywidgets==7.4.2) (0.1.7)
+Collecting nest-asyncio (from ipykernel>=4.5.1->ipywidgets==7.4.2)
+  Obtaining dependency information for nest-asyncio from https://files.pythonhosted.org/packages/a0/c4/c2971a3ba4c6103a3d10c4b0f24f461ddc027f0f09763220cf35ca1401b3/nest_asyncio-1.6.0-py3-none-any.whl.metadata
+  Downloading nest_asyncio-1.6.0-py3-none-any.whl.metadata (2.8 kB)
+Requirement already satisfied: packaging in c:\maximsdk\project 1\ai8x-training\venv\lib\site-packages (from ipykernel>=4.5.1->ipywidgets==7.4.2) (25.0)
+Collecting psutil (from ipykernel>=4.5.1->ipywidgets==7.4.2)
+  Obtaining dependency information for psutil from https://files.pythonhosted.org/packages/bf/e9/b44c4f697276a7a95b8e94d0e320a7bf7f3318521b23de69035540b39838/psutil-7.1.0-cp37-abi3-win_amd64.whl.metadata
+  Downloading psutil-7.1.0-cp37-abi3-win_amd64.whl.metadata (23 kB)
+Collecting pyzmq>=24 (from ipykernel>=4.5.1->ipywidgets==7.4.2)
+  Obtaining dependency information for pyzmq>=24 from https://files.pythonhosted.org/packages/9f/24/70e83d3ff64ef7e3d6666bd30a241be695dad0ef30d5519bf9c5ff174786/pyzmq-27.1.0-cp38-cp38-win_amd64.whl.metadata
+  Downloading pyzmq-27.1.0-cp38-cp38-win_amd64.whl.metadata (6.0 kB)
+Requirement already satisfied: tornado>=6.1 in c:\maximsdk\project 1\ai8x-training\venv\lib\site-packages (from ipykernel>=4.5.1->ipywidgets==7.4.2) (6.4.2)
+Requirement already satisfied: backcall in c:\maximsdk\project 1\ai8x-training\venv\lib\site-packages (from ipython>=4.0.0->ipywidgets==7.4.2) (0.2.0)
+Requirement already satisfied: decorator in c:\maximsdk\project 1\ai8x-training\venv\lib\site-packages (from ipython>=4.0.0->ipywidgets==7.4.2) (5.2.1)
+Requirement already satisfied: jedi>=0.16 in c:\maximsdk\project 1\ai8x-training\venv\lib\site-packages (from ipython>=4.0.0->ipywidgets==7.4.2) (0.19.2)
+Requirement already satisfied: pickleshare in c:\maximsdk\project 1\ai8x-training\venv\lib\site-packages (from ipython>=4.0.0->ipywidgets==7.4.2) (0.7.5)
+Requirement already satisfied: prompt-toolkit!=3.0.37,<3.1.0,>=3.0.30 in c:\maximsdk\project 1\ai8x-training\venv\lib\site-packages (from ipython>=4.0.0->ipywidgets==7.4.2) (3.0.52)
+Requirement already satisfied: pygments>=2.4.0 in c:\maximsdk\project 1\ai8x-training\venv\lib\site-packages (from ipython>=4.0.0->ipywidgets==7.4.2) (2.19.2)
+Requirement already satisfied: stack-data in c:\maximsdk\project 1\ai8x-training\venv\lib\site-packages (from ipython>=4.0.0->ipywidgets==7.4.2) (0.6.3)
+Requirement already satisfied: typing-extensions in c:\maximsdk\project 1\ai8x-training\venv\lib\site-packages (from ipython>=4.0.0->ipywidgets==7.4.2) (4.13.2)
+Requirement already satisfied: colorama in c:\maximsdk\project 1\ai8x-training\venv\lib\site-packages (from ipython>=4.0.0->ipywidgets==7.4.2) (0.4.6)
+Collecting fastjsonschema>=2.15 (from nbformat>=4.2.0->ipywidgets==7.4.2)
+  Obtaining dependency information for fastjsonschema>=2.15 from https://files.pythonhosted.org/packages/cb/a8/20d0723294217e47de6d9e2e40fd4a9d2f7c4b6ef974babd482a59743694/fastjsonschema-2.21.2-py3-none-any.whl.metadata
+  Downloading fastjsonschema-2.21.2-py3-none-any.whl.metadata (2.3 kB)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/a2/3d/023389198f69c722d039351050738d6755376c8fd343e91dc493ea485905/jsonschema-4.24.0-py3-none-any.whl (from https://pypi.org/simple/jsonschema/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/bf/d3/1cf5326b923a53515d8f3a2cd442e6d7e94fcc444716e879ea70a0ce3177/jsonschema-4.24.0.tar.gz (from https://pypi.org/simple/jsonschema/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/85/7f/ea48ffb58f9791f9d97ccb35e42fea1ebc81c67ce36dc4b8b2eee60e8661/jsonschema-4.24.1-py3-none-any.whl (from https://pypi.org/simple/jsonschema/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/f1/6e/35174c1d3f30560848c82d3c233c01420e047d70925c897a4d6e932b4898/jsonschema-4.24.1.tar.gz (from https://pypi.org/simple/jsonschema/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/fe/54/c86cd8e011fe98803d7e382fd67c0df5ceab8d2b7ad8c5a81524f791551c/jsonschema-4.25.0-py3-none-any.whl (from https://pypi.org/simple/jsonschema/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/d5/00/a297a868e9d0784450faa7365c2172a7d6110c763e30ba861867c32ae6a9/jsonschema-4.25.0.tar.gz (from https://pypi.org/simple/jsonschema/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/bf/9c/8c95d856233c1f82500c2450b8c68576b4cf1c871db3afac5c34ff84e6fd/jsonschema-4.25.1-py3-none-any.whl (from https://pypi.org/simple/jsonschema/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/74/69/f7185de793a29082a9f3c7728268ffb31cb5095131a9c139a74078e27336/jsonschema-4.25.1.tar.gz (from https://pypi.org/simple/jsonschema/) (requires-python:>=3.9)
+Collecting jsonschema>=2.6 (from nbformat>=4.2.0->ipywidgets==7.4.2)
+  Obtaining dependency information for jsonschema>=2.6 from https://files.pythonhosted.org/packages/69/4a/4f9dbeb84e8850557c02365a0eee0649abe5eb1d84af92a25731c6c0f922/jsonschema-4.23.0-py3-none-any.whl.metadata
+  Downloading jsonschema-4.23.0-py3-none-any.whl.metadata (7.9 kB)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/5f/2c/1b9b596db2e5205d7df1c0ebe857195704bf32b5dbd8f7504984fd8830b0/notebook-7.5.0a0-py3-none-any.whl (from https://pypi.org/simple/notebook/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/d3/78/25fa7451b755a416d4d4efc884420c554a9f8d56465331439049ee1a1bcd/notebook-7.5.0a0.tar.gz (from https://pypi.org/simple/notebook/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/2e/70/1e473fee9b2dddaf65ce59b001801b78e9900798dc30137017e97b445e90/notebook-7.5.0a1-py3-none-any.whl (from https://pypi.org/simple/notebook/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/8e/e1/970aad25c002f071ef78cc6802bf3bef6990792e7106959b14589df0176f/notebook-7.5.0a1.tar.gz (from https://pypi.org/simple/notebook/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/42/b0/990dc2207df0a78ed697d3af5d7b7e09bca40ee3d4dd1bbbc35acef0a9a9/notebook-7.5.0a2-py3-none-any.whl (from https://pypi.org/simple/notebook/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/34/10/4b9415e94a4b005609f5d200cb1d6a85d2324ae8ef6bac61d5cfdfb73d39/notebook-7.5.0a2.tar.gz (from https://pypi.org/simple/notebook/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/94/73/523b433067bed0568dcb92747d327657a31cb5d6313be87a587284fd2b31/notebook-7.5.0a3-py3-none-any.whl (from https://pypi.org/simple/notebook/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/ba/3f/5888d7c9516ff20829a17a879cc0bc76f62e3807b0505343ea28feeae451/notebook-7.5.0a3.tar.gz (from https://pypi.org/simple/notebook/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/59/51/dd82829c464ee0125b6c6b525c39f99501b79b480cd87602f474fdec033f/notebook-7.5.0b0-py3-none-any.whl (from https://pypi.org/simple/notebook/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/3e/7e/5f9d49219aa1ae0879684fc78dc861f3abf1d0bd0b10db9948aeeff08a9f/notebook-7.5.0b0.tar.gz (from https://pypi.org/simple/notebook/) (requires-python:>=3.9)
+Collecting notebook>=4.4.1 (from widgetsnbextension~=3.4.0->ipywidgets==7.4.2)
+  Obtaining dependency information for notebook>=4.4.1 from https://files.pythonhosted.org/packages/6c/d7/06d13087e20388926e7423d2489e728d2e59f2453039cdb0574a7c070e76/notebook-7.4.7-py3-none-any.whl.metadata
+  Downloading notebook-7.4.7-py3-none-any.whl.metadata (10 kB)
+Requirement already satisfied: parso<0.9.0,>=0.8.4 in c:\maximsdk\project 1\ai8x-training\venv\lib\site-packages (from jedi>=0.16->ipython>=4.0.0->ipywidgets==7.4.2) (0.8.5)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/3a/2a/7cc015f5b9f5db42b7d48157e23356022889fc354a2813c15934b7cb5c0e/attrs-25.4.0-py3-none-any.whl (from https://pypi.org/simple/attrs/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/6b/5c/685e6633917e101e5dcb62b9dd76946cbb57c26e133bae9e0cd36033c0a9/attrs-25.4.0.tar.gz (from https://pypi.org/simple/attrs/) (requires-python:>=3.9)
+Collecting attrs>=22.2.0 (from jsonschema>=2.6->nbformat>=4.2.0->ipywidgets==7.4.2)
+  Obtaining dependency information for attrs>=22.2.0 from https://files.pythonhosted.org/packages/77/06/bb80f5f86020c4551da315d78b3ab75e8228f89f0162f2c3a819e407941a/attrs-25.3.0-py3-none-any.whl.metadata
+  Downloading attrs-25.3.0-py3-none-any.whl.metadata (10 kB)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/13/0d/08d523ab5b9a0d6cd5d157019d8cca7c6ea40444f08be461cb959561cef6/importlib_resources-6.5.0-py3-none-any.whl (from https://pypi.org/simple/importlib-resources/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/90/17/f0adf2fda7f289c2a6c0e7d66ab01a47de8f85f91b8c13b533ce74fe7fbc/importlib_resources-6.5.0.tar.gz (from https://pypi.org/simple/importlib-resources/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/7e/11/47845fb8497ecf2c2c25766eadbd432e72a572cf5ae07062e40b0f23d3f3/importlib_resources-6.5.1-py3-none-any.whl (from https://pypi.org/simple/importlib-resources/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/d0/06/e6d5465162bbb9addbc350304156a2324b06adf949e663b16a295241285f/importlib_resources-6.5.1.tar.gz (from https://pypi.org/simple/importlib-resources/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/a4/ed/1f1afb2e9e7f38a545d628f864d562a5ae64fe6f7a10e28ffb9b185b4e89/importlib_resources-6.5.2-py3-none-any.whl (from https://pypi.org/simple/importlib-resources/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/cf/8c/f834fbf984f691b4f7ff60f50b514cc3de5cc08abfc3295564dd89c5e2e7/importlib_resources-6.5.2.tar.gz (from https://pypi.org/simple/importlib-resources/) (requires-python:>=3.9)
+Collecting importlib-resources>=1.4.0 (from jsonschema>=2.6->nbformat>=4.2.0->ipywidgets==7.4.2)
+  Obtaining dependency information for importlib-resources>=1.4.0 from https://files.pythonhosted.org/packages/e1/6a/4604f9ae2fa62ef47b9de2fa5ad599589d28c9fd1d335f32759813dfa91e/importlib_resources-6.4.5-py3-none-any.whl.metadata
+  Downloading importlib_resources-6.4.5-py3-none-any.whl.metadata (4.0 kB)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/d1/0f/8910b19ac0670a0f80ce1008e5e751c4a57e14d2c4c13a482aa6079fa9d6/jsonschema_specifications-2024.10.1-py3-none-any.whl (from https://pypi.org/simple/jsonschema-specifications/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/10/db/58f950c996c793472e336ff3655b13fbcf1e3b359dcf52dcf3ed3b52c352/jsonschema_specifications-2024.10.1.tar.gz (from https://pypi.org/simple/jsonschema-specifications/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/01/0e/b27cdbaccf30b890c40ed1da9fd4a3593a5cf94dae54fb34f8a4b74fcd3f/jsonschema_specifications-2025.4.1-py3-none-any.whl (from https://pypi.org/simple/jsonschema-specifications/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/bf/ce/46fbd9c8119cfc3581ee5643ea49464d168028cfb5caff5fc0596d0cf914/jsonschema_specifications-2025.4.1.tar.gz (from https://pypi.org/simple/jsonschema-specifications/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/41/45/1a4ed80516f02155c51f51e8cedb3c1902296743db0bbc66608a0db2814f/jsonschema_specifications-2025.9.1-py3-none-any.whl (from https://pypi.org/simple/jsonschema-specifications/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/19/74/a633ee74eb36c44aa6d1095e7cc5569bebf04342ee146178e2d36600708b/jsonschema_specifications-2025.9.1.tar.gz (from https://pypi.org/simple/jsonschema-specifications/) (requires-python:>=3.9)
+Collecting jsonschema-specifications>=2023.03.6 (from jsonschema>=2.6->nbformat>=4.2.0->ipywidgets==7.4.2)
+  Obtaining dependency information for jsonschema-specifications>=2023.03.6 from https://files.pythonhosted.org/packages/ee/07/44bd408781594c4d0a027666ef27fab1e441b109dc3b76b4f836f8fd04fe/jsonschema_specifications-2023.12.1-py3-none-any.whl.metadata
+  Downloading jsonschema_specifications-2023.12.1-py3-none-any.whl.metadata (3.0 kB)
+Collecting pkgutil-resolve-name>=1.3.10 (from jsonschema>=2.6->nbformat>=4.2.0->ipywidgets==7.4.2)
+  Obtaining dependency information for pkgutil-resolve-name>=1.3.10 from https://files.pythonhosted.org/packages/c9/5c/3d4882ba113fd55bdba9326c1e4c62a15e674a2501de4869e6bd6301f87e/pkgutil_resolve_name-1.3.10-py3-none-any.whl.metadata
+  Downloading pkgutil_resolve_name-1.3.10-py3-none-any.whl.metadata (624 bytes)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/30/2f/a969d8bb4b86c2f1308cf020fba2f81a6c9c719b53a34b2ae83da2713629/referencing-0.36.0-py3-none-any.whl (from https://pypi.org/simple/referencing/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/84/7c/c7fb671169578ca7f31081365ccd28e3da845815d38254d337f9a37b12ca/referencing-0.36.0.tar.gz (from https://pypi.org/simple/referencing/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/cc/fa/9f193ef0c9074b659009f06d7cbacc6f25b072044815bcf799b76533dbb8/referencing-0.36.1-py3-none-any.whl (from https://pypi.org/simple/referencing/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/27/32/fd98246df7a0f309b58cae68b10b6b219ef2eb66747f00dfb34422687087/referencing-0.36.1.tar.gz (from https://pypi.org/simple/referencing/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/c1/b1/3baf80dc6d2b7bc27a95a67752d0208e410351e3feb4eb78de5f77454d8d/referencing-0.36.2-py3-none-any.whl (from https://pypi.org/simple/referencing/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/2f/db/98b5c277be99dd18bfd91dd04e1b759cad18d1a338188c936e92f921c7e2/referencing-0.36.2.tar.gz (from https://pypi.org/simple/referencing/) (requires-python:>=3.9)
+Collecting referencing>=0.28.4 (from jsonschema>=2.6->nbformat>=4.2.0->ipywidgets==7.4.2)
+  Obtaining dependency information for referencing>=0.28.4 from https://files.pythonhosted.org/packages/b7/59/2056f61236782a2c86b33906c025d4f4a0b17be0161b63b70fd9e8775d36/referencing-0.35.1-py3-none-any.whl.metadata
+  Downloading referencing-0.35.1-py3-none-any.whl.metadata (2.8 kB)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/23/80/afdf96daf9b27d61483ef05b38f282121db0e38f5fd4e89f40f5c86c2a4f/rpds_py-0.21.0.tar.gz (from https://pypi.org/simple/rpds-py/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/52/bb/4a7bd48830ae7366467c09923a2ffab45bf76102a87d97ff24cdcebcda5c/rpds_py-0.22.0.tar.gz (from https://pypi.org/simple/rpds-py/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/11/e8/9316e3d6edd0530ac284cee5c7ab1cd00acf020b68e08c051c91580d893e/rpds_py-0.22.1.tar.gz (from https://pypi.org/simple/rpds-py/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/01/80/cce854d0921ff2f0a9fa831ba3ad3c65cee3a46711addf39a2af52df2cfd/rpds_py-0.22.3.tar.gz (from https://pypi.org/simple/rpds-py/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/ca/0e/4c797078d00dbf1f63af96e4b3beffb67f71230f58442272b4b1962a61c8/rpds_py-0.23.0.tar.gz (from https://pypi.org/simple/rpds-py/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/0a/79/2ce611b18c4fd83d9e3aecb5cba93e1917c050f556db39842889fa69b79f/rpds_py-0.23.1.tar.gz (from https://pypi.org/simple/rpds-py/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/0b/b3/52b213298a0ba7097c7ea96bee95e1947aa84cc816d48cebb539770cdf41/rpds_py-0.24.0.tar.gz (from https://pypi.org/simple/rpds-py/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/96/d2/7bed8453e53f6c9dea7ff4c19ee980fd87be607b2caf023d62c6579e6c30/rpds_py-0.25.0.tar.gz (from https://pypi.org/simple/rpds-py/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/8c/a6/60184b7fc00dd3ca80ac635dd5b8577d444c57e8e8742cecabfacb829921/rpds_py-0.25.1.tar.gz (from https://pypi.org/simple/rpds-py/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/a5/aa/4456d84bbb54adc6a916fb10c9b374f78ac840337644e4a5eda229c81275/rpds_py-0.26.0.tar.gz (from https://pypi.org/simple/rpds-py/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/1e/d9/991a0dee12d9fc53ed027e26a26a64b151d77252ac477e22666b9688bc16/rpds_py-0.27.0.tar.gz (from https://pypi.org/simple/rpds-py/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/e9/dd/2c0cbe774744272b0ae725f44032c77bdcab6e8bcf544bffa3b6e70c8dba/rpds_py-0.27.1.tar.gz (from https://pypi.org/simple/rpds-py/) (requires-python:>=3.9)
+Collecting rpds-py>=0.7.1 (from jsonschema>=2.6->nbformat>=4.2.0->ipywidgets==7.4.2)
+  Obtaining dependency information for rpds-py>=0.7.1 from https://files.pythonhosted.org/packages/5f/c3/222e25124283afc76c473fcd2c547e82ec57683fa31cb4d6c6eb44e5d57a/rpds_py-0.20.1-cp38-none-win_amd64.whl.metadata
+  Downloading rpds_py-0.20.1-cp38-none-win_amd64.whl.metadata (4.2 kB)
+Requirement already satisfied: importlib-metadata>=4.8.3 in c:\maximsdk\project 1\ai8x-training\venv\lib\site-packages (from jupyter-client>=6.1.12->ipykernel>=4.5.1->ipywidgets==7.4.2) (8.5.0)
+Requirement already satisfied: python-dateutil>=2.8.2 in c:\maximsdk\project 1\ai8x-training\venv\lib\site-packages (from jupyter-client>=6.1.12->ipykernel>=4.5.1->ipywidgets==7.4.2) (2.9.0.post0)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/6d/45/59578566b3275b8fd9157885918fcd0c4d74162928a5310926887b856a51/platformdirs-4.3.7-py3-none-any.whl (from https://pypi.org/simple/platformdirs/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/b6/2d/7d512a3913d60623e7eb945c6d1b4f0bddf1d0b7ada5225274c87e5b53d1/platformdirs-4.3.7.tar.gz (from https://pypi.org/simple/platformdirs/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/fe/39/979e8e21520d4e47a0bbe349e2713c0aac6f3d853d0e5b34d76206c439aa/platformdirs-4.3.8-py3-none-any.whl (from https://pypi.org/simple/platformdirs/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/fe/8b/3c73abc9c759ecd3f1f7ceff6685840859e8070c4d947c93fae71f6a0bf2/platformdirs-4.3.8.tar.gz (from https://pypi.org/simple/platformdirs/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/40/4b/2028861e724d3bd36227adfa20d3fd24c3fc6d52032f4a93c133be5d17ce/platformdirs-4.4.0-py3-none-any.whl (from https://pypi.org/simple/platformdirs/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/23/e8/21db9c9987b0e728855bd57bff6984f67952bea55d6f75e055c46b5383e8/platformdirs-4.4.0.tar.gz (from https://pypi.org/simple/platformdirs/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.10'): https://files.pythonhosted.org/packages/73/cb/ac7874b3e5d58441674fb70742e6c374b28b0c7cb988d37d991cde47166c/platformdirs-4.5.0-py3-none-any.whl (from https://pypi.org/simple/platformdirs/) (requires-python:>=3.10)
+  Link requires a different Python (3.8.10 not in: '>=3.10'): https://files.pythonhosted.org/packages/61/33/9611380c2bdb1225fdef633e2a9610622310fed35ab11dac9620972ee088/platformdirs-4.5.0.tar.gz (from https://pypi.org/simple/platformdirs/) (requires-python:>=3.10)
+Collecting platformdirs>=2.5 (from jupyter-core!=5.0.*,>=4.12->ipykernel>=4.5.1->ipywidgets==7.4.2)
+  Obtaining dependency information for platformdirs>=2.5 from https://files.pythonhosted.org/packages/3c/a6/bc1012356d8ece4d66dd75c4b9fc6c1f6650ddd5991e421177d9f8f671be/platformdirs-4.3.6-py3-none-any.whl.metadata
+  Downloading platformdirs-4.3.6-py3-none-any.whl.metadata (11 kB)
+Collecting pywin32>=300 (from jupyter-core!=5.0.*,>=4.12->ipykernel>=4.5.1->ipywidgets==7.4.2)
+  Obtaining dependency information for pywin32>=300 from https://files.pythonhosted.org/packages/ff/6c/94c10268bae5d0d0c6509bdfb5aa08882d11a9ccdf89ff1cde59a6161afb/pywin32-311-cp38-cp38-win_amd64.whl.metadata
+  Downloading pywin32-311-cp38-cp38-win_amd64.whl.metadata (9.8 kB)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/e2/a2/89eeaf0bb954a123a909859fa507fa86f96eb61b62dc30667b60dbd5fdaf/jupyter_server-2.15.0-py3-none-any.whl (from https://pypi.org/simple/jupyter-server/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/61/8c/df09d4ab646141f130f9977b32b206ba8615d1969b2eba6a2e84b7f89137/jupyter_server-2.15.0.tar.gz (from https://pypi.org/simple/jupyter-server/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/46/1f/5ebbced977171d09a7b0c08a285ff9a20aafb9c51bde07e52349ff1ddd71/jupyter_server-2.16.0-py3-none-any.whl (from https://pypi.org/simple/jupyter-server/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/41/c8/ba2bbcd758c47f1124c4ca14061e8ce60d9c6fd537faee9534a95f83521a/jupyter_server-2.16.0.tar.gz (from https://pypi.org/simple/jupyter-server/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/92/80/a24767e6ca280f5a49525d987bf3e4d7552bf67c8be07e8ccf20271f8568/jupyter_server-2.17.0-py3-none-any.whl (from https://pypi.org/simple/jupyter-server/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/5b/ac/e040ec363d7b6b1f11304cc9f209dac4517ece5d5e01821366b924a64a50/jupyter_server-2.17.0.tar.gz (from https://pypi.org/simple/jupyter-server/) (requires-python:>=3.9)
+Collecting jupyter-server<3,>=2.4.0 (from notebook>=4.4.1->widgetsnbextension~=3.4.0->ipywidgets==7.4.2)
+  Obtaining dependency information for jupyter-server<3,>=2.4.0 from https://files.pythonhosted.org/packages/57/e1/085edea6187a127ca8ea053eb01f4e1792d778b4d192c74d32eb6730fed6/jupyter_server-2.14.2-py3-none-any.whl.metadata
+  Downloading jupyter_server-2.14.2-py3-none-any.whl.metadata (8.4 kB)
+Collecting jupyterlab-server<3,>=2.27.1 (from notebook>=4.4.1->widgetsnbextension~=3.4.0->ipywidgets==7.4.2)
+  Obtaining dependency information for jupyterlab-server<3,>=2.27.1 from https://files.pythonhosted.org/packages/54/09/2032e7d15c544a0e3cd831c51d77a8ca57f7555b2e1b2922142eddb02a84/jupyterlab_server-2.27.3-py3-none-any.whl.metadata
+  Downloading jupyterlab_server-2.27.3-py3-none-any.whl.metadata (5.9 kB)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/35/2b/cccc5878fb3a6260d1923ced50455c126642042b2a9a258ae59904f0ac44/jupyterlab-4.4.0a1-py3-none-any.whl (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/b1/9e/8b5bd96bf7521d7588c201ec905f52cabed25ed8868929106b9b2c6642e2/jupyterlab-4.4.0a1.tar.gz (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/a6/e2/a9b14729fcae3deb0f195ffbedfc8fe357aece94de2ca4c37152d616621f/jupyterlab-4.4.0a2-py3-none-any.whl (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/83/72/d8ae4568b7b25f0796bfba98235a8c54fbf7674c6e267a0a52e1f207336e/jupyterlab-4.4.0a2.tar.gz (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/a4/ac/2d8221b0797c86a975b812be26c878c74b99bf7557045f5b27b9d3c72d85/jupyterlab-4.4.0a3-py3-none-any.whl (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/a5/f2/d90ab477b092d2b41170e9d0818bec8d972c77c45750d17ec72b2e872267/jupyterlab-4.4.0a3.tar.gz (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/03/3c/82e775e8af2955206aa089bc065660760fa4b415c52e7ce3ebf6d5e9fa38/jupyterlab-4.4.0b0-py3-none-any.whl (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/6e/6d/c63467f4ab495cfd3db348a373d4815c910f80e604ff1ec81fcbb6469c25/jupyterlab-4.4.0b0.tar.gz (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/16/e4/0ee7d8c0c01167c4ff881711dea046b040b26b0c276188ab395239cb9320/jupyterlab-4.4.0b1-py3-none-any.whl (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/38/57/75f408cc52cc2abc3e3719a0b8bc29357139281e7a2f1b191914476e6c9a/jupyterlab-4.4.0b1.tar.gz (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/5e/10/5a1fedf8cf17b480a15faf4fa3725599eb8fbb95a67d758835d92a512c64/jupyterlab-4.4.0b2-py3-none-any.whl (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/52/ac/28356d451710fc1656006fc0fadf4097307cac6a7d7a0633982d3848c5f8/jupyterlab-4.4.0b2.tar.gz (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/39/66/3f0c8f052a68d9293454eb0159d3736e41dd668ef2a81f7f2f5df15d8238/jupyterlab-4.4.0rc0-py3-none-any.whl (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/61/02/2bb14c09ab9b59e72c25698dde92335f666f72019538cefcb849efc05208/jupyterlab-4.4.0rc0.tar.gz (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/e9/4d/82a1d8f6a536a3696ae481c91e32e4838711f1ffe43804f58b57b951fa1c/jupyterlab-4.4.0rc1-py3-none-any.whl (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/a1/37/308deff0bfefba8497fffcad2688e8cf929546c4ca0b371b85fb9cacdbe2/jupyterlab-4.4.0rc1.tar.gz (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/a2/64/1a559e1b945c3d424c1ac9f333bfd6f595d5819efde3a6d8b036e6b0585f/jupyterlab-4.4.0-py3-none-any.whl (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/46/49/0beaab21155e5f7438032f3da920abbcf46159b28adafbdf596dd33c57a6/jupyterlab-4.4.0.tar.gz (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/29/82/c8784597c5a03426c1ef20c48aff37e8cfe050ab5ca87f0d51069f02b362/jupyterlab-4.4.1-py3-none-any.whl (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/f6/55/3ef7e6bfe988d7df3d453cc27912846d50590c90790848594f7228c89569/jupyterlab-4.4.1.tar.gz (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/f6/ae/fbb93f4990b7648849b19112d8b3e7427bbfc9c5cc8fdc6bf14c0e86d104/jupyterlab-4.4.2-py3-none-any.whl (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/f4/3c/12a8b27ff2c3b4005bbb5e11c7747246965776d2b821193e53ffd61f1332/jupyterlab-4.4.2.tar.gz (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/c6/4d/7dd5c2ffbb960930452a031dc8410746183c924580f2ab4e68ceb5b3043f/jupyterlab-4.4.3-py3-none-any.whl (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/d3/2d/d1678dcf2db66cb4a38a80d9e5fcf48c349f3ac12f2d38882993353ae768/jupyterlab-4.4.3.tar.gz (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/f8/82/66910ce0995dbfdb33609f41c99fe32ce483b9624a3e7d672af14ff63b9f/jupyterlab-4.4.4-py3-none-any.whl (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/e2/4d/7ca5b46ea56742880d71a768a9e6fb8f8482228427eb89492d55c5d0bb7d/jupyterlab-4.4.4.tar.gz (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/47/74/e144ce85b34414e44b14c1f6bf2e3bfe17964c8e5670ebdc7629f2e53672/jupyterlab-4.4.5-py3-none-any.whl (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/20/89/695805a6564bafe08ef2505f3c473ae7140b8ba431d381436f11bdc2c266/jupyterlab-4.4.5.tar.gz (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/53/38/6182d63f39428821e705e86fba61704fc69769a24ca5a9578c2c04986c9a/jupyterlab-4.4.6-py3-none-any.whl (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/1e/5c/14f0852233d60d30bf0f22a817d6c20ac555d73526cc915274f97c07a2b9/jupyterlab-4.4.6.tar.gz (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/7e/01/44f35124896dd5c73b26705c25bb8af2089895b32f057a1e4a3488847333/jupyterlab-4.4.7-py3-none-any.whl (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/d0/07/b3beaeb5722d4a55e345a38884c67baebd9cec2269c5309ce494485a5858/jupyterlab-4.4.7.tar.gz (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/d1/3b/82d8c000648e77a112b2ae38e49722ffea808933377ea4a4867694384774/jupyterlab-4.4.8-py3-none-any.whl (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/b4/f1/062e250e4126babed8b62ed3dbe47dfb4761e310a235a815e87b4fe330a3/jupyterlab-4.4.8.tar.gz (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/1f/fd/ac0979ebd1b1975c266c99b96930b0a66609c3f6e5d76979ca6eb3073896/jupyterlab-4.4.9-py3-none-any.whl (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/45/b2/7dad2d0049a904d17c070226a4f78f81905f93bfe09503722d210ccf9335/jupyterlab-4.4.9.tar.gz (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/93/13/a1e1ccb2546e0bca0049e2f25ccf5daf03f70efe752ca308965774e59796/jupyterlab-4.5.0a0-py3-none-any.whl (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/1c/9a/d1bd094610438d0c80f2e8c0aaee22164bc4d38015421ef335169845f8df/jupyterlab-4.5.0a0.tar.gz (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/ae/34/5cf309771d0347bc190598c1346a30f31dfa00e7eaeb97e42101064cf123/jupyterlab-4.5.0a1-py3-none-any.whl (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/08/4b/1ffed49e535e9e8ce9d011392414a7934662f8d8c497019c8d3634b358f4/jupyterlab-4.5.0a1.tar.gz (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/27/e7/69ff452f806d3021526a296e70427442201504a1e61700dad933bee940ae/jupyterlab-4.5.0a2-py3-none-any.whl (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/79/47/0ea91e0f2529d4db0329af715e025e9340a311f78aa2779046a4c936c966/jupyterlab-4.5.0a2.tar.gz (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/90/b6/1a3558e580a091890ac7f5d142654a40e03f45cece91153178bd29bd5006/jupyterlab-4.5.0a3-py3-none-any.whl (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/78/d3/85f8be9ce86a1fc4f9adffeec4c6257090fd4e3865a15c864470bae19adf/jupyterlab-4.5.0a3.tar.gz (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/c9/9a/63b05df5e1f61a5cfe043cf54ae89e5b63a7700c8d8f1a46c3e7d3098d7d/jupyterlab-4.5.0a4-py3-none-any.whl (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/5c/b0/58f2e021f7d7612acda0fae8050ef01c10424f20d7a5103f30c12b08ad27/jupyterlab-4.5.0a4.tar.gz (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/4a/7a/4aa1dd621f8ad3f3724d1bae60dbc06576d6911df8e01eb35114616cdf99/jupyterlab-4.5.0b0-py3-none-any.whl (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/50/6c/96496c88fed729345ab1d1bf000c0009cfa7834aa9f798d2daec184511cf/jupyterlab-4.5.0b0.tar.gz (from https://pypi.org/simple/jupyterlab/) (requires-python:>=3.9)
+INFO: pip is looking at multiple versions of notebook to determine which version is compatible with other requirements. This could take a while.
+Collecting notebook>=4.4.1 (from widgetsnbextension~=3.4.0->ipywidgets==7.4.2)
+  Obtaining dependency information for notebook>=4.4.1 from https://files.pythonhosted.org/packages/dd/33/8cfe8678444c52173b4f490e2f72b8eca30d99ddc1e0dcc6e1aea63d48c4/notebook-7.4.6-py3-none-any.whl.metadata
+  Downloading notebook-7.4.6-py3-none-any.whl.metadata (10 kB)
+  Obtaining dependency information for notebook>=4.4.1 from https://files.pythonhosted.org/packages/fe/c7/207fd1138bd82435d13b6d8640a240be4d855b8ddb41f6bf31aca5be64df/notebook-7.4.5-py3-none-any.whl.metadata
+  Downloading notebook-7.4.5-py3-none-any.whl.metadata (10 kB)
+  Obtaining dependency information for notebook>=4.4.1 from https://files.pythonhosted.org/packages/b3/c0/e64d2047fd752249b0b69f6aee2a7049eb94e7273e5baabc8b8ad05cc068/notebook-7.4.4-py3-none-any.whl.metadata
+  Downloading notebook-7.4.4-py3-none-any.whl.metadata (10 kB)
+  Obtaining dependency information for notebook>=4.4.1 from https://files.pythonhosted.org/packages/76/1b/16c809d799e3ddd7a97c8b43734f79624b74ddef9707e7d92275a13777bc/notebook-7.4.3-py3-none-any.whl.metadata
+  Downloading notebook-7.4.3-py3-none-any.whl.metadata (10 kB)
+  Obtaining dependency information for notebook>=4.4.1 from https://files.pythonhosted.org/packages/1e/16/d3c36a0b1f6dfcf218add8eaf803bf0473ff50681ac4d51acb7ba02bce34/notebook-7.4.2-py3-none-any.whl.metadata
+  Downloading notebook-7.4.2-py3-none-any.whl.metadata (10 kB)
+  Obtaining dependency information for notebook>=4.4.1 from https://files.pythonhosted.org/packages/41/c5/47248ed90d263e4c16f9f6b06f094105ce33f384cf135eab5a6452230d46/notebook-7.4.1-py3-none-any.whl.metadata
+  Downloading notebook-7.4.1-py3-none-any.whl.metadata (10 kB)
+  Obtaining dependency information for notebook>=4.4.1 from https://files.pythonhosted.org/packages/13/d1/a8897aa74ac54409c4679e96e6d8b31d7187b2ce31596ae3ee95bee20e87/notebook-7.4.0-py3-none-any.whl.metadata
+  Downloading notebook-7.4.0-py3-none-any.whl.metadata (10 kB)
+INFO: pip is still looking at multiple versions of notebook to determine which version is compatible with other requirements. This could take a while.
+  Obtaining dependency information for notebook>=4.4.1 from https://files.pythonhosted.org/packages/f2/bf/5e5fcf79c559600b738d7577c8360bfd4cfa705400af06f23b3a049e44b6/notebook-7.3.3-py3-none-any.whl.metadata
+  Downloading notebook-7.3.3-py3-none-any.whl.metadata (10 kB)
+Collecting jupyterlab<4.4,>=4.3.6 (from notebook>=4.4.1->widgetsnbextension~=3.4.0->ipywidgets==7.4.2)
+  Obtaining dependency information for jupyterlab<4.4,>=4.3.6 from https://files.pythonhosted.org/packages/e6/15/ef346ab227f161cba2dcffe3ffeb8b4e4d2630600408f8276945d49fc868/jupyterlab-4.3.8-py3-none-any.whl.metadata
+  Downloading jupyterlab-4.3.8-py3-none-any.whl.metadata (16 kB)
+Collecting notebook-shim<0.3,>=0.2 (from notebook>=4.4.1->widgetsnbextension~=3.4.0->ipywidgets==7.4.2)
+  Obtaining dependency information for notebook-shim<0.3,>=0.2 from https://files.pythonhosted.org/packages/f9/33/bd5b9137445ea4b680023eb0469b2bb969d61303dedb2aac6560ff3d14a1/notebook_shim-0.2.4-py3-none-any.whl.metadata
+  Downloading notebook_shim-0.2.4-py3-none-any.whl.metadata (4.0 kB)
+Requirement already satisfied: wcwidth in c:\maximsdk\project 1\ai8x-training\venv\lib\site-packages (from prompt-toolkit!=3.0.37,<3.1.0,>=3.0.30->ipython>=4.0.0->ipywidgets==7.4.2) (0.2.14)
+Requirement already satisfied: executing>=1.2.0 in c:\maximsdk\project 1\ai8x-training\venv\lib\site-packages (from stack-data->ipython>=4.0.0->ipywidgets==7.4.2) (2.2.1)
+Requirement already satisfied: asttokens>=2.1.0 in c:\maximsdk\project 1\ai8x-training\venv\lib\site-packages (from stack-data->ipython>=4.0.0->ipywidgets==7.4.2) (3.0.0)
+Requirement already satisfied: pure-eval in c:\maximsdk\project 1\ai8x-training\venv\lib\site-packages (from stack-data->ipython>=4.0.0->ipywidgets==7.4.2) (0.2.3)
+Requirement already satisfied: zipp>=3.20 in c:\maximsdk\project 1\ai8x-training\venv\lib\site-packages (from importlib-metadata>=4.8.3->jupyter-client>=6.1.12->ipykernel>=4.5.1->ipywidgets==7.4.2) (3.20.2)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/9e/ef/7a4f225581a0d7886ea28359179cb861d7fbcdefad29663fc1167b86f69f/anyio-4.6.0-py3-none-any.whl (from https://pypi.org/simple/anyio/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/78/49/f3f17ec11c4a91fe79275c426658e509b07547f874b14c1a526d86a83fc8/anyio-4.6.0.tar.gz (from https://pypi.org/simple/anyio/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/96/4e/93dba0472b569c0b4f2c848fa1f06b70242836b2da1741370288271c3f9d/anyio-4.6.1-py3-none-any.whl (from https://pypi.org/simple/anyio/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/eb/27/6fa26db273f2454d25104b3327192fca83a08eec62f8d61c1078d4a4ed66/anyio-4.6.1.tar.gz (from https://pypi.org/simple/anyio/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/e4/f5/f2b75d2fc6f1a260f340f0e7c6a060f4dd2961cc16884ed851b0d18da06a/anyio-4.6.2.post1-py3-none-any.whl (from https://pypi.org/simple/anyio/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/9f/09/45b9b7a6d4e45c6bcb5bf61d19e3ab87df68e0601fa8c5293de3542546cc/anyio-4.6.2.post1.tar.gz (from https://pypi.org/simple/anyio/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/a0/7a/4daaf3b6c08ad7ceffea4634ec206faeff697526421c20f07628c7372156/anyio-4.7.0-py3-none-any.whl (from https://pypi.org/simple/anyio/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/f6/40/318e58f669b1a9e00f5c4453910682e2d9dd594334539c7b7817dabb765f/anyio-4.7.0.tar.gz (from https://pypi.org/simple/anyio/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/46/eb/e7f063ad1fec6b3178a3cd82d1a3c4de82cccf283fc42746168188e1cdd5/anyio-4.8.0-py3-none-any.whl (from https://pypi.org/simple/anyio/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/a3/73/199a98fc2dae33535d6b8e8e6ec01f8c1d76c9adb096c6b7d64823038cde/anyio-4.8.0.tar.gz (from https://pypi.org/simple/anyio/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/a1/ee/48ca1a7c89ffec8b6a0c5d02b89c305671d5ffd8d3c94acf8b8c408575bb/anyio-4.9.0-py3-none-any.whl (from https://pypi.org/simple/anyio/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/95/7d/4c1bd541d4dffa1b52bd83fb8527089e097a106fc90b467a7313b105f840/anyio-4.9.0.tar.gz (from https://pypi.org/simple/anyio/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/6f/12/e5e0282d673bb9746bacfb6e2dba8719989d3660cdb2ea79aee9a9651afb/anyio-4.10.0-py3-none-any.whl (from https://pypi.org/simple/anyio/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/f1/b4/636b3b65173d3ce9a38ef5f0522789614e590dab6a8d505340a4efe4c567/anyio-4.10.0.tar.gz (from https://pypi.org/simple/anyio/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/15/b3/9b1a8074496371342ec1e796a96f99c82c945a339cd81a8e73de28b4cf9e/anyio-4.11.0-py3-none-any.whl (from https://pypi.org/simple/anyio/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/c6/78/7d432127c41b50bccba979505f272c16cbcadcc33645d5fa3a738110ae75/anyio-4.11.0.tar.gz (from https://pypi.org/simple/anyio/) (requires-python:>=3.9)
+Collecting anyio>=3.1.0 (from jupyter-server<3,>=2.4.0->notebook>=4.4.1->widgetsnbextension~=3.4.0->ipywidgets==7.4.2)
+  Obtaining dependency information for anyio>=3.1.0 from https://files.pythonhosted.org/packages/1b/b4/f7e396030e3b11394436358ca258a81d6010106582422f23443c16ca1873/anyio-4.5.2-py3-none-any.whl.metadata
+  Downloading anyio-4.5.2-py3-none-any.whl.metadata (4.7 kB)
+Collecting argon2-cffi>=21.1 (from jupyter-server<3,>=2.4.0->notebook>=4.4.1->widgetsnbextension~=3.4.0->ipywidgets==7.4.2)
+  Obtaining dependency information for argon2-cffi>=21.1 from https://files.pythonhosted.org/packages/4f/d3/a8b22fa575b297cd6e3e3b0155c7e25db170edf1c74783d6a31a2490b8d9/argon2_cffi-25.1.0-py3-none-any.whl.metadata
+  Downloading argon2_cffi-25.1.0-py3-none-any.whl.metadata (4.1 kB)
+Collecting jinja2>=3.0.3 (from jupyter-server<3,>=2.4.0->notebook>=4.4.1->widgetsnbextension~=3.4.0->ipywidgets==7.4.2)
+  Obtaining dependency information for jinja2>=3.0.3 from https://files.pythonhosted.org/packages/62/a1/3d680cbfd5f4b8f15abc1d571870c5fc3e594bb582bc3b64ea099db13e56/jinja2-3.1.6-py3-none-any.whl.metadata
+  Downloading jinja2-3.1.6-py3-none-any.whl.metadata (2.9 kB)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/3f/8c/9b65cb2cd4ea32d885993d5542244641590530836802a2e8c7449a4c61c9/jupyter_events-0.11.0-py3-none-any.whl (from https://pypi.org/simple/jupyter-events/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/f4/65/5791c8a979b5646ca29ea50e42b6708908b789f7ff389d1a03c1b93a1c54/jupyter_events-0.11.0.tar.gz (from https://pypi.org/simple/jupyter-events/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/e2/48/577993f1f99c552f18a0428731a755e06171f9902fa118c379eb7c04ea22/jupyter_events-0.12.0-py3-none-any.whl (from https://pypi.org/simple/jupyter-events/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/9d/c3/306d090461e4cf3cd91eceaff84bede12a8e52cd821c2d20c9a4fd728385/jupyter_events-0.12.0.tar.gz (from https://pypi.org/simple/jupyter-events/) (requires-python:>=3.9)
+Collecting jupyter-events>=0.9.0 (from jupyter-server<3,>=2.4.0->notebook>=4.4.1->widgetsnbextension~=3.4.0->ipywidgets==7.4.2)
+  Obtaining dependency information for jupyter-events>=0.9.0 from https://files.pythonhosted.org/packages/a5/94/059180ea70a9a326e1815176b2370da56376da347a796f8c4f0b830208ef/jupyter_events-0.10.0-py3-none-any.whl.metadata
+  Downloading jupyter_events-0.10.0-py3-none-any.whl.metadata (5.9 kB)
+Collecting jupyter-server-terminals>=0.4.4 (from jupyter-server<3,>=2.4.0->notebook>=4.4.1->widgetsnbextension~=3.4.0->ipywidgets==7.4.2)
+  Obtaining dependency information for jupyter-server-terminals>=0.4.4 from https://files.pythonhosted.org/packages/07/2d/2b32cdbe8d2a602f697a649798554e4f072115438e92249624e532e8aca6/jupyter_server_terminals-0.5.3-py3-none-any.whl.metadata
+  Downloading jupyter_server_terminals-0.5.3-py3-none-any.whl.metadata (5.6 kB)
+Collecting nbconvert>=6.4.4 (from jupyter-server<3,>=2.4.0->notebook>=4.4.1->widgetsnbextension~=3.4.0->ipywidgets==7.4.2)
+  Obtaining dependency information for nbconvert>=6.4.4 from https://files.pythonhosted.org/packages/cc/9a/cd673b2f773a12c992f41309ef81b99da1690426bd2f96957a7ade0d3ed7/nbconvert-7.16.6-py3-none-any.whl.metadata
+  Downloading nbconvert-7.16.6-py3-none-any.whl.metadata (8.5 kB)
+Collecting overrides>=5.0 (from jupyter-server<3,>=2.4.0->notebook>=4.4.1->widgetsnbextension~=3.4.0->ipywidgets==7.4.2)
+  Obtaining dependency information for overrides>=5.0 from https://files.pythonhosted.org/packages/2c/ab/fc8290c6a4c722e5514d80f62b2dc4c4df1a68a41d1364e625c35990fcf3/overrides-7.7.0-py3-none-any.whl.metadata
+  Downloading overrides-7.7.0-py3-none-any.whl.metadata (5.8 kB)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/50/c7/cee159ba3d7192e84a4c166ec1752f44a5fa859ac0eeda2d73a1da65ab47/prometheus_client-0.22.0-py3-none-any.whl (from https://pypi.org/simple/prometheus-client/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/5b/5a/3fa1fa7e91a203759aaf316be394f70f2ef598d589b9785a8611b6094c00/prometheus_client-0.22.0.tar.gz (from https://pypi.org/simple/prometheus-client/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/32/ae/ec06af4fe3ee72d16973474f122541746196aaa16cea6f66d18b963c6177/prometheus_client-0.22.1-py3-none-any.whl (from https://pypi.org/simple/prometheus-client/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/5e/cf/40dde0a2be27cc1eb41e333d1a674a74ce8b8b0457269cc640fd42b07cf7/prometheus_client-0.22.1.tar.gz (from https://pypi.org/simple/prometheus-client/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/09/b9/82b4a4e17cc0d80a37276619e412fac07367c5aaf9360803d5b176970ed7/prometheus_client-0.23.0-py3-none-any.whl (from https://pypi.org/simple/prometheus-client/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/59/5d/2f7cd40906695c960959d7b65eb67a32354dbd4b68a5ae1ec4d0dc586010/prometheus_client-0.23.0.tar.gz (from https://pypi.org/simple/prometheus-client/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/b8/db/14bafcb4af2139e046d03fd00dea7873e48eafe18b7d2797e73d6681f210/prometheus_client-0.23.1-py3-none-any.whl (from https://pypi.org/simple/prometheus-client/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/23/53/3edb5d68ecf6b38fcbcc1ad28391117d2a322d9a1a3eff04bfdb184d8c3b/prometheus_client-0.23.1.tar.gz (from https://pypi.org/simple/prometheus-client/) (requires-python:>=3.9)
+Collecting prometheus-client>=0.9 (from jupyter-server<3,>=2.4.0->notebook>=4.4.1->widgetsnbextension~=3.4.0->ipywidgets==7.4.2)
+  Obtaining dependency information for prometheus-client>=0.9 from https://files.pythonhosted.org/packages/ff/c2/ab7d37426c179ceb9aeb109a85cda8948bb269b7561a0be870cc656eefe4/prometheus_client-0.21.1-py3-none-any.whl.metadata
+  Downloading prometheus_client-0.21.1-py3-none-any.whl.metadata (1.8 kB)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/2d/7c/917f9c4681bb8d34bfbe0b79d36bbcd902651aeab48790df3d30ba0202fb/pywinpty-2.0.15.tar.gz (from https://pypi.org/simple/pywinpty/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/06/df/429cc505dc5f77ab0612c4b60bca2e3dcc81f6c321844ee017d6dc0f4a95/pywinpty-3.0.0.tar.gz (from https://pypi.org/simple/pywinpty/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/2a/0b/dbb5beae7bd1664620028582ef24ebd0934bc30ed4821652775f96660e68/pywinpty-3.0.1.tar.gz (from https://pypi.org/simple/pywinpty/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/f3/bb/a7cc2967c5c4eceb6cc49cfe39447d4bfc56e6c865e7c2249b6eb978935f/pywinpty-3.0.2.tar.gz (from https://pypi.org/simple/pywinpty/) (requires-python:>=3.9)
+Collecting pywinpty>=2.0.1 (from jupyter-server<3,>=2.4.0->notebook>=4.4.1->widgetsnbextension~=3.4.0->ipywidgets==7.4.2)
+  Downloading pywinpty-2.0.14.tar.gz (27 kB)
+  Installing build dependencies: started
+  Running command pip subprocess to install build dependencies
+  Using pip 25.0.1 from C:\MaximSDK\Project 1\ai8x-training\venv\Lib\site-packages\pip (python 3.8)
+  Collecting maturin<2.0,>=1.1
+    Obtaining dependency information for maturin<2.0,>=1.1 from https://files.pythonhosted.org/packages/db/9f/dd51e5ac1fce47581b8efa03d77a03f928c0ef85b6e48a61dfa37b6b85a2/maturin-1.9.6-py3-none-win_amd64.whl.metadata
+    Downloading maturin-1.9.6-py3-none-win_amd64.whl.metadata (17 kB)
+  Collecting tomli>=1.1.0 (from maturin<2.0,>=1.1)
+    Obtaining dependency information for tomli>=1.1.0 from https://files.pythonhosted.org/packages/77/b8/0135fadc89e73be292b473cb820b4f5a08197779206b33191e801feeae40/tomli-2.3.0-py3-none-any.whl.metadata
+    Downloading tomli-2.3.0-py3-none-any.whl.metadata (10 kB)
+  Downloading maturin-1.9.6-py3-none-win_amd64.whl (8.1 MB)
+     ---------------------------------------- 8.1/8.1 MB 18.7 MB/s eta 0:00:00
+  Downloading tomli-2.3.0-py3-none-any.whl (14 kB)
+  Installing collected packages: tomli, maturin
+  Successfully installed maturin-1.9.6 tomli-2.3.0
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Running command Getting requirements to build wheel
+  Getting requirements to build wheel: finished with status 'done'
+  Installing backend dependencies: started
+  Running command pip subprocess to install backend dependencies
+  Using pip 25.0.1 from C:\MaximSDK\Project 1\ai8x-training\venv\Lib\site-packages\pip (python 3.8)
+    Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/77/a6/cfa8d74d77a4dbb8f8d21f13aea8623f5129fdaf3065b4e4fcc1d9643868/puccinialin-0.1.0-py3-none-any.whl (from https://pypi.org/simple/puccinialin/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/11/85/c01eb84cd16492d40d44ed404b9e21dd2f4ab42861e8b3b9ba8bb4806bfc/puccinialin-0.1.0.tar.gz (from https://pypi.org/simple/puccinialin/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/0f/48/cc8bed5cb4605e777c921a62482478e061cc8614a1a441de9341a99c30c0/puccinialin-0.1.1-py3-none-any.whl (from https://pypi.org/simple/puccinialin/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/70/4b/1bd0481985e697e23975e543dec4af9ae77c75aacd680887966b3d1ab99c/puccinialin-0.1.1.tar.gz (from https://pypi.org/simple/puccinialin/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/dc/0f/c09ab796683c143964df8ade28d4f4ba1f5d96a653688e877b13ec714efd/puccinialin-0.1.2-py3-none-any.whl (from https://pypi.org/simple/puccinialin/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/7e/6a/e6d1de4f5ff2bcf5a92b7f77f3d152fa88cad25d14a1bb2ba16d95a7a530/puccinialin-0.1.2.tar.gz (from https://pypi.org/simple/puccinialin/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/6f/02/fb99ca2d834c19110af36de74ec2ebd82040d000a254980c66c0f03252f6/puccinialin-0.1.3-py3-none-any.whl (from https://pypi.org/simple/puccinialin/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/3a/54/d8dce72bb4bd7371f38bd2e9c97f9e2740ac965d46458c02ea5b785129b1/puccinialin-0.1.3.tar.gz (from https://pypi.org/simple/puccinialin/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/77/ab/2b8f43d47bd88856030876bef0f8ac1fb4d4887f67a5edfdaa09165f1bc5/puccinialin-0.1.4-py3-none-any.whl (from https://pypi.org/simple/puccinialin/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/95/77/2dd23cd329d05b827f20290268416fed7c32e383a4ba73c43569bc5ce11c/puccinialin-0.1.4.tar.gz (from https://pypi.org/simple/puccinialin/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/b0/25/91d671da2a6d98e95094f7456754c55d972febcc35de3b6d4e9a9017c445/puccinialin-0.1.5-py3-none-any.whl (from https://pypi.org/simple/puccinialin/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/a5/1a/27a2a9ee534555c3bdccd04cdc63db17066e0bd6817e8540283d1c0a87a5/puccinialin-0.1.5.tar.gz (from https://pypi.org/simple/puccinialin/) (requires-python:>=3.9)
+  ERROR: Could not find a version that satisfies the requirement puccinialin (from versions: none)
+  ERROR: No matching distribution found for puccinialin
+  error: subprocess-exited-with-error
+  
+  pip subprocess to install backend dependencies did not run successfully.
+  exit code: 1
+  
+  See above for output.
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+  full command: 'c:\maximsdk\project 1\ai8x-training\venv\scripts\python.exe' 'C:\MaximSDK\Project 1\ai8x-training\venv\Lib\site-packages\pip\__pip-runner__.py' install --ignore-installed --no-user --prefix 'C:\Users\meepo\AppData\Local\Temp\pip-build-env-ofex6kps\normal' --no-warn-script-location --disable-pip-version-check --target '' -v --no-binary :none: --only-binary :none: -i https://pypi.org/simple -- puccinialin
+  cwd: [inherit]
+  Installing backend dependencies: finished with status 'error'
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/e0/f0/8a2806114cd36e282823fd4d8e88e3b94dc943c2569c350d0c826a49db38/pip-25.1-py3-none-any.whl (from https://pypi.org/simple/pip/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/79/67/c06f625e2968c417052b3a4a0eef40656d5d4d44033e57b40ec474af1d28/pip-25.1.tar.gz (from https://pypi.org/simple/pip/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/29/a2/d40fb2460e883eca5199c62cfc2463fd261f760556ae6290f88488c362c0/pip-25.1.1-py3-none-any.whl (from https://pypi.org/simple/pip/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/59/de/241caa0ca606f2ec5fe0c1f4261b0465df78d786a38da693864a116c37f4/pip-25.1.1.tar.gz (from https://pypi.org/simple/pip/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/b7/3f/945ef7ab14dc4f9d7f40288d2df998d1837ee0888ec3659c813487572faa/pip-25.2-py3-none-any.whl (from https://pypi.org/simple/pip/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.10 not in: '>=3.9'): https://files.pythonhosted.org/packages/20/16/650289cd3f43d5a2fadfd98c68bd1e1e7f2550a1a5326768cddfbcedb2c5/pip-25.2.tar.gz (from https://pypi.org/simple/pip/) (requires-python:>=3.9)
+error: subprocess-exited-with-error
+
+pip subprocess to install backend dependencies did not run successfully.
+exit code: 1
+
+See above for output.
+
+note: This error originates from a subprocess, and is likely not a problem with pip.
